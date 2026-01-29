@@ -10,12 +10,16 @@ redirect_from:
 About Me
 =======================================================================================
 Profession: Student
+
+University: Virginia Tech
+
 Major: Computer Engineering 
+
 Minor: Computer Science and Political Science
+
 Year: Junior
 
 Hometown: Smithtown, New York
-
 
 GitHub repository Link:https://github.com/Vk0804/Vk0804.github.io/tree/master/_pages
 
