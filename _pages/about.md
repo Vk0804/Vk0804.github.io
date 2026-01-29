@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Hi! I am a junior studying Computer Engineering at Virginia Tech with an interest in minoring in Computer Science and Political Science. I am from Long island, New York and am originally from India. One of my favorite hobbies is listening to music, reading and learning photography!
 
 About Me
 =======================================================================================
