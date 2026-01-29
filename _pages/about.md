@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+
 About Me
 =======================================================================================
+
+
 Profession: Student
 
 University: Virginia Tech
@@ -18,6 +21,8 @@ Major: Computer Engineering
 Minor: Computer Science and Political Science
 
 Year: Junior
+
+Email: Varshithk@vt.edu
 
 Hometown: Smithtown, New York
 
