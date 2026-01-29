@@ -12,19 +12,19 @@ About Me
 =======================================================================================
 
 
-Profession: Student
+**Profession:** Student
 
-University: Virginia Tech
+**University:** Virginia Tech
 
-Major: Computer Engineering 
+**Major:** Computer Engineering 
 
-Minor: Computer Science and Political Science
+**Minor:** Computer Science and Political Science
 
-Year: Junior
+**Year:** Junior
 
-Email: Varshithk@vt.edu
+**Email:** [Varshithak@vt.edu](mailto:Varshithk@vt.edu)
 
-Hometown: Smithtown, New York
+**Hometown:** Smithtown, New York
 
 **GitHub repository Link:** [View source on GitHUb](https://github.com/Vk0804/Vk0804.github.io)
 
