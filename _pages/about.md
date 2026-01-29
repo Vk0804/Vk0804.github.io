@@ -21,7 +21,7 @@ Year: Junior
 
 Hometown: Smithtown, New York
 
-GitHub repository Link:https://github.com/Vk0804/Vk0804.github.io/tree/master/_pages
+GitHub repository Link: https://github.com/Vk0804/Vk0804.github.io/tree/master/_pages
 
 
 
